@@ -26,7 +26,7 @@ global.wm = "sik"
 global.link = 'https://chat.whatsapp.com/C3MM67PRK7N0MY7w7b4MGQ'
 
 //custom prefix
-global.prefa = ['^']
+global.prefa = ['^','!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
